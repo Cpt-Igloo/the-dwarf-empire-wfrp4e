@@ -42,5 +42,8 @@
       "module": "the-dwarf-empire-wfrp4e",
       "system": "wfrp4e"
     }
-  ]
+  ],
+  "url": "https://github.com/Cpt-Igloo/the-dwarf-empire-wfrp4e",
+  "manifest": "https://raw.githubusercontent.com/Cpt-Igloo/the-dwarf-empire-wfrp4e/main/module.json",
+  "download": "https://github.com/Cpt-Igloo/the-dwarf-empire-wfrp4e/archive/main.zip"
  }
