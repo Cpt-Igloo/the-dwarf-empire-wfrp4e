@@ -5,6 +5,8 @@ The original PDF can be find [Here.](https://drive.google.com/drive/folders/17K5
 
 This module is specifically designed for the [WFRP4e system](https://github.com/moo-man/WFRP4e-FoundryVTT)
 
+Manifest URL : 'https://raw.githubusercontent.com/Cpt-Igloo/the-dwarf-empire-wfrp4e/main/module.json'
+
 ## What's Included
 - 5 New Careers : Thane, Ironbreaker, Shieldbreaker, Forest Ranger and Hammerer
 - 19 New Trappings
