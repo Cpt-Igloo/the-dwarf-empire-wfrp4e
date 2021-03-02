@@ -1,7 +1,7 @@
 {
    "name": "the-dwarf-empire-wfrp4e",
    "title": "The Dwarf Empire (WFRP4)",
-   "description": "Importing careers from Big Boss' unofficial supplement The Dwarf Empire",
+   "description": "Adapting Big Boss' unofficial supplement The Dwarf Empire to Foundry VTT",
    "author": "Noober",
    "systems": ["wfrp4e"],
    "version": "1.0",
