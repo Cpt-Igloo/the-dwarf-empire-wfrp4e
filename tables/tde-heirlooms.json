@@ -1,0 +1,94 @@
+{
+    "name": "Dwarf Heirlooms",
+    "die": "1d100",
+    "rows": [
+       {
+        "description": "Dwarf Forged Decorative Beer Stein.",
+        "range": [1, 5]
+    }, {
+        "description": "Engraved Smoking Pipe with Smokeweed.",
+        "range": [6, 10]
+    }, {
+        "description": "Beard Braids.",
+        "range": [11, 15]
+    }, {
+        "description": "Great Axe or Warhammer.",
+        "range": [16, 17]
+    }, {
+        "description": "Engraved Drinking Horn!",
+        "range": [18, 21]
+    }, {
+        "description": "Necklace of Grimnir, Grungni or Valaya.",
+        "range": [22, 25]
+    }, {
+        "description": "Trade Tools (Any).",
+        "range": [26, 30]
+    }, {
+        "description": "Crossbow or Handgun. ",
+        "range": [31, 32]
+    }, {
+        "description": "Full Set of Mail Armor and Horned Helm.",
+        "range": [33, 35]
+    }, {
+        "description": "Quality Clothes and Hat.",
+        "range": [36, 40]
+    }, {
+        "description": "Dwarfen Iron Pen and Quality Writing Kit.",
+        "range": [41, 45]
+    }, {
+        "description": "Complete Set of Books Written in Khazalid for Art, Apothecary, Brewing, Engineering or History.",
+        "range": [46, 50]
+    }, {
+        "description": "Quality Trade Tools (Any).",
+        "range": [51, 55]
+    }, {
+        "description": "A Barrel of Bugman’s XXXXXX Ale.",
+        "range": [56, 57]
+    }, {
+        "description": "Full Set of Quality Mail Armor and Horned Helmet.",
+        "range": [58, 60]
+    }, {
+        "description": "Quality Beard Braids.",
+        "range": [61, 65]
+    }, {
+        "description": "Clan Signet Ring and Talisman.",
+        "range": [66, 70]
+    }, {
+        "description": "Platinum, Gem-Encrusted Beard Comb.",
+        "range": [71, 75]
+    }, {
+        "description": "Best Quality Great Axe or Warhammer",
+        "range": [76, 77]
+    }, {
+        "description": "Full Set of Quality Plate Armor",
+        "range": [78, 80]
+    }, {
+        "description": "Best Quality Crossbow or Handgun.",
+        "range": [81, 85]
+    }, {
+        "description": "Best Quality Trade Tools (Any).",
+        "range": [86, 90]
+    }, {
+        "description": "Family Owned Workshop (Any Trade).",
+        "range": [91, 92]
+    }, {
+        "description": "Best Quality Beard Braids.",
+        "range": [96, 95]
+    }, {
+        "description": "Jewel Encrusted Golden Necklace to Grimnir, Grungni or Valaya (Worth 150 GC).",
+        "range": [96, 96]
+    }, {
+        "description": "Gromril Great Axe or Warhammer.",
+        "range": [97, 97]
+    }, {
+        "description": "Gromril Crossbow or Handgun.",
+        "range": [98, 98]
+    }, {
+        "description": "Gromril Armor Piece (Any).",
+        "range": [99, 99]
+    }, {
+        "description": "Runic Weapon (Any).",
+        "range": [100, 100]
+    }
+    ]
+  }

@@ -1,0 +1,37 @@
+{
+    "name": "Dwarf Longbeard bonus XP and Resilience",
+    "die": "1d10",
+    "rows": [
+       {
+        "description": "Bonus XP : 1D10x10<br>Bonus Resilience : +1 Resilience",
+        "range": [1, 1]
+    }, {
+        "description": "Bonus XP : 2D10x10<br>Bonus Resilience : +1 Resilience",
+        "range": [2, 2]
+    }, {
+        "description": "Bonus XP : 3D10x10<br>Bonus Resilience : +1 Resilience",
+        "range": [3, 3]
+    }, {
+        "description": "Bonus XP : 1D10x20<br>Bonus Resilience : +1 Resilience",
+        "range": [4, 4]
+    }, {
+        "description": "Bonus XP : 2D10x20<br>Bonus Resilience : +1 Resilience",
+        "range": [5, 5]
+    }, {
+        "description": "Bonus XP : 1D10x30<br>Bonus Resilience : +1 Resilience",
+        "range": [6, 6]
+    }, {
+        "description": "Bonus XP : 1D10x40<br>Bonus Resilience : +2 Resilience",
+        "range": [7, 7]
+    }, {
+        "description": "Bonus XP : 1D10x50<br>Bonus Resilience : +2 Resilience",
+        "range": [8, 8]
+    }, {
+        "description": "Bonus XP : 2D10x50<br>Bonus Resilience : +2 Resilience",
+        "range": [9, 9]
+    }, {
+        "description": "Bonus XP : 1D100x10<br>Bonus Resilience : +3 Resilience",
+        "range": [10, 10]
+    }
+    ]
+  }
