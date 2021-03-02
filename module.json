@@ -1,0 +1,46 @@
+{
+   "name": "the-dwarf-empire-wfrp4e",
+   "title": "The Dwarf Empire",
+   "description": "Importing careers from Big Boss' unofficial supplement The Dwarf Empire",
+   "author": "Noober",
+   "systems": ["wfrp4e"],
+   "version": "1.0",
+   "minimumCoreVersion": "0.7.0",
+   "compatibleCoreVersion":"0.7.9",
+   "packs": [
+    {
+      "name": "trappings-tde",
+      "label": "Trappings (The Dwarf Empire)",
+      "path": "packs/trappings-tde.db",
+      "entity": "Item",
+      "module": "the-dwarf-empire-wfrp4e",
+      "system": "wfrp4e",
+      "tag": "trapping"
+    },
+    {
+      "name": "careers-tde",
+      "label": "Careers (The Dwarf Empire)",
+      "path": "packs/careers-tde.db",
+      "entity": "Item",
+      "module": "the-dwarf-empire-wfrp4e",
+      "system": "wfrp4e",
+      "tag" : "career"
+    },
+    {
+      "name": "bestiary-tde",
+      "label": "Bestiary (The Dwarf Empire)",
+      "path": "packs/bestiary-tde.db",
+      "entity": "Actor",
+      "module": "the-dwarf-empire-wfrp4e",
+      "system": "wfrp4e"
+    },
+    {
+      "name": "journalentries-tde",
+      "label": "Dwarf Character Additional Creation Rules and Careers description (The Dwarf Empire)",
+      "path": "packs/journalentries-tde.db",
+      "entity": "JournalEntry",
+      "module": "the-dwarf-empire-wfrp4e",
+      "system": "wfrp4e"
+    }
+  ]
+ }
