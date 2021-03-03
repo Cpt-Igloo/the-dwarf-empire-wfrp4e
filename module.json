@@ -1,7 +1,7 @@
 {
    "name": "the-dwarf-empire-wfrp4e",
    "title": "The Dwarf Empire (WFRP4)",
-   "description": "Adapting Big Boss' unofficial supplement The Dwarf Empire to Foundry VTT",
+   "description": "This module adapts Big Boss' unofficial supplement The Dwarf Empire to Foundry VTT. It adds 5 new careers as well as new trappings, options for creating a dwarf character and a dwarf themed bestiary.",
    "author": "Noober",
    "systems": ["wfrp4e"],
    "version": "1.1.0",
