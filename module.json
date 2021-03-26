@@ -4,7 +4,7 @@
    "description": "This module adapts Big Boss' unofficial supplement The Dwarf Empire to Foundry VTT. It adds 5 new careers as well as new trappings, options for creating a dwarf character and a dwarf themed bestiary.",
    "author": "Noober",
    "systems": ["wfrp4e"],
-   "version": "1.1.0",
+   "version": "1.1.1",
    "minimumCoreVersion": "0.7.0",
    "compatibleCoreVersion":"0.7.9",
    "packs": [
