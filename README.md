@@ -11,7 +11,7 @@ Manifest URL : `https://raw.githubusercontent.com/Cpt-Igloo/the-dwarf-empire-wfr
 - 5 New Careers : Thane, Ironbreaker, Shieldbreaker, Forest Ranger and Hammerer
 - 19 New Trappings
 - A Dwarf Themed Bestiary
-- Several new options for creating a Dwarf Character (like belonging to a legendary Clan)
+- Dwarf subspecies and several new options for creating a Dwarf Character (like belonging to a legendary Clan or being a longbeard)
 
 ## Thanks
 - Big Boss

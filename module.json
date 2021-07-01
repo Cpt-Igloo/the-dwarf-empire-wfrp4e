@@ -1,12 +1,13 @@
 {
    "name": "the-dwarf-empire-wfrp4e",
-   "title": "The Dwarf Empire (WFRP4)",
+   "title": "The Dwarf Empire [WFRP4]",
    "description": "This module adapts Big Boss' unofficial supplement The Dwarf Empire to Foundry VTT. It adds 5 new careers as well as new trappings, options for creating a dwarf character and a dwarf themed bestiary.",
    "author": "Noober",
    "systems": ["wfrp4e"],
-   "version": "1.1.1",
+   "version": "2.0.0",
    "minimumCoreVersion": "0.7.0",
-   "compatibleCoreVersion":"0.7.9",
+   "compatibleCoreVersion":"0.7.10",
+   "scripts": ["initialization.js"],
    "packs": [
     {
       "name": "trappings-tde",
@@ -15,7 +16,12 @@
       "entity": "Item",
       "module": "the-dwarf-empire-wfrp4e",
       "system": "wfrp4e",
-      "tag": "trapping"
+      "tags": [
+        "trapping",
+        "armour",
+        "weapon",
+        "ammunition"
+      ]
     },
     {
       "name": "careers-tde",
@@ -24,7 +30,7 @@
       "entity": "Item",
       "module": "the-dwarf-empire-wfrp4e",
       "system": "wfrp4e",
-      "tag" : "career"
+      "tags" : "career"
     },
     {
       "name": "bestiary-tde",
@@ -32,7 +38,8 @@
       "path": "packs/bestiary-tde.db",
       "entity": "Actor",
       "module": "the-dwarf-empire-wfrp4e",
-      "system": "wfrp4e"
+      "system": "wfrp4e",
+      "tags" : "actor"
     },
     {
       "name": "journalentries-tde",
